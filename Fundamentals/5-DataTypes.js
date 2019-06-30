@@ -1,6 +1,6 @@
 let mensagem = 'ódio';
 
-console.log(`coisa do ${mensagem} completo`)
+console.log(`coisa do meu ${mensagem} completo`)
 
 // Refazendo a mensagem anterior:
 let printar = 'Hello World', 
