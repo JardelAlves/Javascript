@@ -20,3 +20,30 @@ if (name == 'ECMAScript') {
 } else {
     console.log(`You don't know? ECMAScript!`)
 }
+
+//Task 3
+let number = 0
+
+if (number > 0) {
+    console.log('1')
+} else if (number < 0) {
+    console.log('-1')
+} else {
+    console.log(0)
+}
+
+//Task 4
+let a = 1,
+    b = 5;
+
+result = (a + b < 4) ? 'Below' : 'Over';
+console.log(result)
+
+//Task 5
+let message,
+    login = 'Director';
+
+(login == 'Employee') ? console.log('Hello') :
+          (login == 'Director') ? console.log('Greetings') :
+          (login == '') ? console.log('No login') :
+          console.log('');
