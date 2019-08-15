@@ -16,7 +16,7 @@
 
 // console.log(name)
 
-//Task 1
+// Task 1
 // console.log(null || 2 || undefined)
 
 // //Task 2
@@ -31,7 +31,7 @@
 // //Task 5
 // console.log(null || 2 && 3 || 4)
 
-//Task 6
+// Task 6
 // let age = 91;
 
 // if (age >= 14 && age <= 90) {
